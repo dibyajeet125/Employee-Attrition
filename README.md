@@ -3,7 +3,8 @@ Analyzed a dataset of 1,000,000 employee records, identifying key factors influe
 
 This project involves a comprehensive analysis of employee attrition using a large dataset of 1,000,000 employee records. The goal is to identify key factors influencing employee turnover and develop predictive models to forecast attrition.
 
-Key Features of the Dataset
+Key Features of the Dataset:
+
 Size: The dataset consists of 1,000,000 samples.
 
 Features:
@@ -12,7 +13,8 @@ Categorical Variables: Job type, degree, major, industry.
 
 Numerical Variables: Years of experience, distance from the metropolis, salary.
 
-Methodology
+Methodology:
+
 Data Preprocessing:
 
 Handling Missing Values: No missing values were found in the dataset.
