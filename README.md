@@ -41,5 +41,5 @@ Business Insights:
 
 Salary Discrepancies: Predicted salaries for a sample of low-paid employees often exceeded actual salaries, indicating potential underpayment issues.
 
-Conclusion
+Conclusion:
 This project demonstrates the application of machine learning techniques to analyze employee attrition. By identifying key factors and optimizing predictive models, organizations can better understand and address issues contributing to turnover.
